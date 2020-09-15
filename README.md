@@ -91,4 +91,4 @@ Tag EditText diatas merupakan tag untuk mengambil inputan dari user dengan id �
 Tag ImageView diatas merupakan tag untuk menampilkan gambar dengan id imageView2. Gambar yang digunakan adalah liquid dari ekstensi drawable. Sisi kiri, kanan, dan bawah gambar ini mengikuti area lingkupnya sementara sisi atas bergantung pada sisi bawah dari tag EditText dengan id “editTextTextPassword”.
 
 **Screenshoot Tugas**
-![Final](/images/Android.jpg)
+![Final](Android.jpg)
